@@ -21,7 +21,7 @@ RecordLine is Fun
     ...,
     'somthing data']
 
-
+|
 
 install recordLine
 
@@ -34,3 +34,5 @@ install recordLine
 	$ cd recordLine
 
 	$ sudo python setup.py install
+
+|

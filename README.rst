@@ -28,6 +28,9 @@ install recordLine
 ``````````````````
 
 ::
+
 	$ git clone https://gitlab.com/amiralinull/recordLine.git
+
 	$ cd recordLine
+
 	$ sudo python setup.py install
